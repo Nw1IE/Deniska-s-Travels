@@ -59,18 +59,18 @@
 	** Ветка Release **
 
 ## Стек технологий
-# Языки и фрайерворк 
+## Языки и фрайерворк 
 - C++ - Разрабтка Destop приложений. Будет использоваться framework QT, наиболее распростроняемый фраемворк
 - Java - Разработка мобильных приложений на Android Studio, или же Android Native - framework разработка
 - для андроид
 - SQL - Для взаимодействия с бд 
-# IDE
+## IDE
 - Android Studio - для работы с java 
 - Visual Studio - Для работы с с++ под Dekstop, очень хорошое.
 - IntelliJ IDEA - для работы с java под Dekstop, 
-# Возможные планы
+## Возможные планы
 - Вообще реализовать хоть что то
-# Framework 
+## Framework 
 -  QT - Для С++
 -  Android Native Для java для Мобилок
 -  Hibernate - Для работы с БД на java
